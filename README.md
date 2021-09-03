@@ -6,6 +6,6 @@ He was in signals and was responsible for maintaining communications, whatever t
 
 Not only is the hand-written diary transcribed, but it's extended with batallion daily extracts, maps, images, videos and links to more information. You can spend much time exploring this diary and hopefully understand what it was like from the words of somebody who was there at the time.
 
-It's a small blue booklet that the author must have carried with him in his pocket in the trenches. He must have added to it day by day with the thought that one day somebody would read it. You can understand that by what he wrote. Now we all can.
+It's a small blue booklet that the author must have carried with him in his pocket in the trenches. He must have added to it day by day with the thought that one day somebody would read it. Now we all can.
 
 
