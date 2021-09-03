@@ -1,0 +1,56 @@
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="..\generalstyles.css">
+
+<title>Poziers</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<SCRIPT LANGUAGE="JavaScript"> 
+function popup(FILE, FEATURES) { 
+    CONTENT = "<HTML><HEAD><TITLE>Enlarged image</TITLE></HEAD>" +
+              "<BODY><CENTER><FORM><INPUT TYPE='BUTTON' VALUE='Close'" +
+               "onClick='window.close()'></FORM><P><IMG SRC='" + FILE + 
+               "' BORDER=0>" + "</CENTER>"+ "</BODY></HTML>";
+              pop = window.open("","",FEATURES);
+              pop.document.open();
+              pop.focus();
+              pop.document.write(CONTENT);
+              pop.document.close();
+
+} 
+</SCRIPT> 
+   
+</head>
+<br>
+
+<CENTER>
+<FONT SIZE="-1">
+<p style="background: palegoldenrod; border: 1px solid #0066FF; padding:8px">
+An aerial view of Pozieres and the corresponding area of the trench map and a layout guide.
+Click on the pictrues for enlarged versions. Click the BACK button to return to the diary.
+</FONT>
+</p>
+
+<A 
+HREF="javascript:void(0)" 
+onClick="popup('Pozieres_Layout_Overlay_Air.jpg', 'toolbar=0,scrollbars=1')">
+<img src="Pozieres_Layout_Overlay_Air_Small.jpg" ALT="Aerial view of Pozieres. Click to enlarge" border=1>
+</A> 
+<br>
+
+<A 
+HREF="javascript:void(0)" 
+onClick="popup('Pozieres_Layout_Overlay_Trench.jpg', 'toolbar=0,scrollbars=1')">
+<img src="Pozieres_Layout_Overlay_Trench_Small.jpg" ALT="5th Brigade Trench map of Pozieres. Click to enlarge" border=1>
+</A> 
+
+<br>
+<IMG  SRC="Pozieres_Layout_Overlay_Map_Small.jpg"
+ALT="Layout diagram of Pozieres." border=1>
+
+</CENTER>
+
+</body>
+</html>
